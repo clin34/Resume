@@ -1,0 +1,57 @@
+{
+  "name": "Hui Lin",
+  "bio": "Experienced SQA professional with expertise in designing and executing test plans, creating and maintaining automated test suites, and performing exploratory testing to identify potential issues. Skilled in a variety of testing frameworks and tools, with a proven track record of collaborating with cross-functional teams to ensure high-quality software products. Passionate about continuously improving the quality assurance process and delivering exceptional software products.",
+  "skills": ["Python", "C++", "Selenium", "Docker"],
+  "education": [
+    {
+      "degree": "BBA in Computer Information Systems",
+      "school": "CUNY Baruch College",
+      "year": "2013 - 2017"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Dell Technologies",
+      "title": "Software Engineer In Test",
+      "homepage": "https://www.dell.com/",
+      "date": "Dec. 2022 - Present",
+      "description": [
+        "Develop and maintain test automation scripts using Python and shell scripts",
+        "Perform functional, integration, and regression testing on Dell's VxRail product suites",
+        "Conduct regression testing an prvoide input on software releases",
+        "Participate in code reviews and provide feedback to development teams"
+      ]
+    },
+    {
+      "company": "Claris, an Apple company",
+      "homepage": "https://www.claris.com/",
+      "title": "Software QA Engineer",
+      "date": "Apr. 2021 - Oct. 2022",
+      "description": [
+        "Design and execute manual and automated tests for Claris FileMaker products (Server, Pro, WebDirect)",
+        "Create test plans and test cases based on software requirements and specifications",
+        "Collaborate with cross-functional teams to identify and resolve software defects",
+        "Track and report defects using Jira and Confluence",
+        "Conduct performance, scalability and stability tests using open source tools such as jMeter and K6 with integration of Jenkins to achieve continous testing, and driving quality upstream",
+        "Set up Prometheous and Grafana to continously monitor applicaiton's health (memory leaks, process crashes, hangs) while performing load and stress test, so developers can provide fixes early in the SDLC"
+      ]
+    },
+    {
+      "company": "Charlene Enterprise Inc.",
+      "title": "Information Technology Staff",
+      "date": "Nov. 2017 - Nov. 2020",
+      "description": [
+        "Maintained and implemented new features to company website",
+        "Set up and mainted company's hardware and software",
+        "Provide IT trainings for colleagues"
+      ]
+    }
+  ],
+  "projects": [],
+  "contact": {
+    "email": "hui.lin1009@gmail.com",
+    "phone": "646-229-6088",
+    "linkedin": "linkedin.com/in/hlin0",
+    "github": "github.com/clin34"
+  }
+}

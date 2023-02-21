@@ -1,0 +1,102 @@
+.resume {
+  font-family: sans-serif;
+  margin: 50px auto;
+  width: 80vw;
+  display: grid;
+  grid-template-columns: 3.5fr 6.5fr;
+  grid-column-gap: 3em;
+}
+
+#column-left {
+  padding-right: 4em;
+  border-right: 6px solid rgb(88, 62, 236);
+}
+
+a {
+  text-decoration: none;
+  color: rgb(89, 62, 236);
+  font-weight: bold;
+}
+
+#name {
+  text-align: center;
+}
+
+header {
+  display: grid;
+  grid-template-columns: 5fr 5fr;
+  grid-template-rows: 5fr 5fr;
+  grid-column-gap: 1em;
+}
+
+.bio {
+  margin-bottom: 2em;
+}
+
+.skills {
+  margin-bottom: 30px;
+}
+
+.skills ul {
+  list-style: none;
+  padding: 0;
+}
+
+.skills li {
+  display: inline-block;
+  margin-right: 10px;
+  padding: 5px 10px;
+  border: 1px solid black;
+  border-radius: 20px;
+  background-color: #f0f0f0;
+}
+
+.experience .job {
+  margin-bottom: 40px;
+}
+
+.job #title {
+  font-weight: bold;
+  margin-right: 0.5em;
+}
+
+.job #company {
+  font-weight: bold;
+  margin-right: 0.5em;
+}
+
+.job #company > a {
+  text-decoration: none;
+  color: rgb(89, 62, 236);
+}
+
+.job .company {
+  font-style: italic;
+  margin-bottom: 5px;
+}
+
+.job .date {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.job .description {
+  margin: 0;
+}
+
+.education .degree {
+  margin-bottom: 30px;
+}
+
+.degree h4 {
+  margin: 0;
+}
+
+.degree .university {
+  font-style: italic;
+  margin-bottom: 5px;
+}
+
+.degree .date {
+  margin-bottom: 5px;
+}
